@@ -1,4 +1,4 @@
-module excel2struct
+module github.com/johnnhooyo/excel2struct
 
 go 1.20
 
